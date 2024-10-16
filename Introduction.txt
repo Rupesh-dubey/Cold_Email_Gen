@@ -1,0 +1,11 @@
+LLM: Large ,general-purpose language models  that can be pre-trained  adnd then fine tuned for specific purpose.
+
+GenAI: generator+discriminator pair for creating new data, texts, images etc.
+
+
+Need for Deep learning in T.B. detection rather than Machine learning::
+- Images are better trained in DL than ML
+=- specific features are focused in DL rather than ML
+-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10365622/
+-ML uses statistical methods to find patterns in data and perform predictions and classifications on new data. 
+-  relevant features are extracted in DL for image classification, which is not the case for ML.
